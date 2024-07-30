@@ -1,4 +1,4 @@
-const Sos = () => {
+const Resources = () => {
   return (
     <div className={`app-container`}>
       <div className="header">
@@ -94,4 +94,4 @@ const Sos = () => {
   );
 };
 
-export default Sos;
+export default Resources;

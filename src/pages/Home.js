@@ -1,5 +1,5 @@
 import { Chatbot } from "../components/Chatbot";
-import AddItemForm from "../components/AddItemForm";
+// import AddItemForm from "../components/AddItemForm";
 
 const Home = () => {
   return (
@@ -10,7 +10,7 @@ const Home = () => {
           <div className="cluster"></div>
           <Chatbot />
         </main>
-        <AddItemForm />
+        {/* <AddItemForm /> */}
       </div>
     </>
   );

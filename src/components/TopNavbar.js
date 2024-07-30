@@ -13,14 +13,14 @@ const TopNavbar = () => {
             <a href="/" className=" hover:text-gray-300">
               Home
             </a>
-            <a href="/supports" className=" hover:text-gray-300">
-              Supports
+            <a href="/standard" className=" hover:text-gray-300">
+              Standard
             </a>
-            <a href="/articles" className=" hover:text-gray-300">
-              Articles
+            <a href="/advanced" className=" hover:text-gray-300">
+              Advanced
             </a>
-            <a href="/sos" className=" hover:text-gray-300">
-              Emergency
+            <a href="/resources" className=" hover:text-gray-300">
+              Resources
             </a>
           </div>
         </div>
